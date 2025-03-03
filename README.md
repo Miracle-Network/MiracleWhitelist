@@ -11,5 +11,5 @@ The plugin checks if user record is available in database and that record is act
 ## Todos:
 - Time limited whitelist
 - Local database
-- Commands
+- ~~Commands~~
 
